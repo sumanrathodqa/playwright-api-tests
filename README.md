@@ -21,14 +21,15 @@ Before you begin, ensure you have the following installed on your machine:
 
 
 ## Installation
-1. **Clone the Repository**
-    git clone <repository-url>
-  
-2. **Navigate to the project directory**
-    cd <project-directory>
+# Clone the repository
+git clone <repository-url>
 
-3. **Install Dependencies**
-    npm install
+# Navigate into the project directory
+cd <project-directory>
+
+# Install dependencies
+npm install
+
 
 ## Environment Configuration
 Copy following values from the test project jsons 'Suman Rathod - QA-Task.json' and 'QA-TASK-ENV.postman_environment.json' into a .env file.
