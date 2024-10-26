@@ -1,0 +1,9 @@
+{
+  "createTag": {
+    "title": "Sample Tag Title",
+    "description": "Sample description for the tag",
+    "color": "#FF5733",
+    "image": "http://example.com/image.png",
+    "timeOfFactOffset": "1967-06-19T17:03:13.567Z"
+  }
+}

@@ -1,0 +1,10 @@
+[
+    "ColorChanged",
+    "DescriptionChanged",
+    "ImageChanged",
+    "TitleChanged",
+    "WorkItemTagArchived",
+    "WorkItemTagRemoved",
+    "WorkItemTagRestored",
+    "WorkItemTagUnarchived"
+  ]
