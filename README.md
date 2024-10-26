@@ -21,13 +21,13 @@ Before you begin, ensure you have the following installed on your machine:
 
 
 ## Installation
-# Clone the repository
+1. Clone the repository
 git clone <repository-url>
 
-# Navigate into the project directory
+2. Navigate into the project directory
 cd <project-directory>
 
-# Install dependencies
+3. Install dependencies
 npm install
 
 
